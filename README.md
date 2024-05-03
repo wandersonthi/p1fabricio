@@ -1,3 +1,5 @@
+link do video com os testes.
+https://youtu.be/36Nu6pg9_zA?si=-_KZzvFuvXvcwrI2
 # p1fabricio
 # API de Cadastro e Autenticação JWT
 
